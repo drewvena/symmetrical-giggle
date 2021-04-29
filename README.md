@@ -5,7 +5,7 @@
  ##  Description
  ### This project uses mongodb, mongoose, express, service workers and a manifest to create an application to track your budget! The application has been deployed to heroku in connection with Mongo Atlas
  ![SCREENSHOT](./image/budget.png)
- ![LINK]: (https://budget-tracker-man.herokuapp.com/)
+ ![LINK]: https://budget-tracker-man.herokuapp.com/
 
  ---
  ## Table of Contents
